@@ -24,7 +24,12 @@
 
 Подсказка: чтобы искать включение можно окружить его звёздочками `*substring*`, filename лучше всего искать спомощью `find, а внутренность файла спомощью `grep.
 
+## Пример использования возможной команды
 
-Полезные ссылочки:
+```bash
+./searcher2000 -p /Users/my_cool_name/Documents/ -n "Sukhanov" -i
+```
+
+## Полезные ссылочки
 
 - [Mingw64](https://www.mingw-w64.org/downloads/#msys2) или [так](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v10.0.0.tar.bz2/download)
