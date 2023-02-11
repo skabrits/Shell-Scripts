@@ -15,18 +15,14 @@
 
 -p [path]           path to folder to search file under
 
--n [substring]      name that file should contain in name
-
-                    or inside itself
+-n [substring]      name that file should contain in name or inside itself
 
 и 1 флаг без параметров
 
--i                  whether it should search name in filename 
-
-                    or inside the file (inside the file if flag present)
+-i                  whether it should search name in filename or inside the file (inside the file if flag present)
 
 
-Подсказка: чтобы искать включение можно окружить его звёздочками `*substring*`, filename лучше всего искать спомощью find, а внутренность файла спомощью grep.
+Подсказка: чтобы искать включение можно окружить его звёздочками `*substring*`, filename лучше всего искать спомощью `find, а внутренность файла спомощью `grep.
 
 
 Полезные ссылочки:
