@@ -1,0 +1,4 @@
+AppVersion: 11.2
+namespace: hello-world
+version: 1.1.2
+label: funny
